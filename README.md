@@ -1,5 +1,5 @@
 - 👋 Hola, Soy Jonathan Alvarez
-- 👀 estoy interesado en aprender un poc de todo
+- 👀 estoy interesado en aprender un poco de todo
 - 🌱 Actucalmente estoy aprendiendo JavaScript
 - 💞️ Estoy buscando colaborar con Digital House
 - 📫 Puedes escribirme por ...
